@@ -1,0 +1,7 @@
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2019 Fall\CSc 354 Intro to Systems\Lewandowski2\Lewandowski2\bin\Debug\Lewandowski2.exe.config
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2019 Fall\CSc 354 Intro to Systems\Lewandowski2\Lewandowski2\bin\Debug\Lewandowski2.exe
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2019 Fall\CSc 354 Intro to Systems\Lewandowski2\Lewandowski2\bin\Debug\Lewandowski2.pdb
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2019 Fall\CSc 354 Intro to Systems\Lewandowski2\Lewandowski2\obj\Debug\Lewandowski2.csprojAssemblyReference.cache
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2019 Fall\CSc 354 Intro to Systems\Lewandowski2\Lewandowski2\obj\Debug\Lewandowski2.csproj.CoreCompileInputs.cache
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2019 Fall\CSc 354 Intro to Systems\Lewandowski2\Lewandowski2\obj\Debug\Lewandowski2.exe
+C:\Users\alewa\OneDrive - South Dakota State University - SDSU\Documents\School\2019 Fall\CSc 354 Intro to Systems\Lewandowski2\Lewandowski2\obj\Debug\Lewandowski2.pdb
