@@ -1,0 +1,8 @@
+﻿PROG:	START	0
+FIRST:	LDA		=C'<>'
+		LDA		=C'FEDCBA'
+		LDA		=X'CC'
+		LDA		=X'FEDCBA'
+		LDA		=C'<>'
+		LDA		=X'CC'
+		END		FIRST
